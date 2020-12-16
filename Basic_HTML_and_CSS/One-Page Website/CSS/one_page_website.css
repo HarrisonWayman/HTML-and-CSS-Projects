@@ -1,0 +1,51 @@
+/*====================================================
+    GENERIC STYLE
+=====================================================*/
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65%;
+}
+
+body {
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+}
+
+/*==========================================================
+    INPUT STYLES
+========================================================*/
+.reservation form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 12px 12px;
+    width: 70%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgba(227,222,222);
+    box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.3);
+    font-family: 'Raleway', sans-serif;
+}
+
+.reservation input[type="text"] {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8d8e8f;
+    padding: 2% 1% 2% 7%;
+    width: 80%;
+    border-top: 1px solid #09db0d;
+    border-right: 2px solid #424594;
+    border-bottom: 2px solid #424594;
+    border-left: 1px solid #09db0d;
+    margin: 10px 1em;
+    border-radius: 7px;
+    background: #13161b;
+    box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,0.15);
+    font-family: 'Raleway',sans-serif;
+}  
